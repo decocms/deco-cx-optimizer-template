@@ -1,0 +1,44 @@
+{
+  "schemaVersion": "1.0",
+  "project": {
+    "slug": "deco-cx-optimizer",
+    "title": "deco.cx Optimizer"
+  },
+  "author": {
+    "orgSlug": "vibegui"
+  },
+  "resources": {
+    "tools": [],
+    "views": [
+      "/views/Markdown-to-Documents-Uploader.json"
+    ],
+    "workflows": [],
+    "documents": [
+      "/documents/03_analyze-async-render-performance.json",
+      "/documents/01_applying-async-render.json",
+      "/documents/02_optimize-section-with-async-render.json",
+      "/documents/islands.json",
+      "/documents/guide.json",
+      "/documents/edge-async-render.json",
+      "/documents/loaders.json",
+      "/documents/site-hardening-playbook.json",
+      "/documents/lazy-3rd-party-scripts.json",
+      "/documents/images.json",
+      "/documents/fonts.json",
+      "/documents/loading-fallback.json",
+      "/documents/svg-sprites.json",
+      "/documents/section.json",
+      "/documents/loader.json",
+      "/documents/partial.json",
+      "/documents/css.json",
+      "/documents/matcher.json",
+      "/documents/---Documentation-INDEX--Quick-Reference-Guide.json",
+      "/documents/caching-data-loaders.json"
+    ],
+    "database": []
+  },
+  "dependencies": {
+    "mcps": []
+  },
+  "createdAt": "2025-11-10T22:41:53.778Z"
+}
