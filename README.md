@@ -2,8 +2,9 @@
 
 Deco CMS app with opinionated performance guides, playbooks, and helper views to harden and speed up deco.cx stores. It ships ready-to-browse documentation (JSON) and utilities you can add to any Deco site.
 
-- One‑click install (imports the template into your Deco CMS org):
-[Deploy to deco](https://admin.decocms.com/?importGithub=decocms/deco-cx-optimizer-template)
+One‑click install (imports the template into your Deco CMS org):
+
+[<img width="160"  alt="image" src="https://github.com/user-attachments/assets/57a65c72-eef4-4db9-9e7a-ba629bde614c" />](https://admin.decocms.com/?importGithub=decocms/deco-cx-optimizer-template)
 
 #### What’s inside
 - `documents/` — curated guides (performance principles, async rendering, loader caching, images, fonts, scripts, islands, etc.). Start at “0. 📚 Documentation INDEX: Quick Reference Guide”.
